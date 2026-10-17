@@ -1,0 +1,4 @@
+Mike Smith,101,01711111111,screen
+Sarah Johnson,102,01722222222,battery
+Alex Chen,103,01733333333,software
+Jenny Park,104,01744444444,water damage

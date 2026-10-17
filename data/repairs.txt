@@ -1,0 +1,10 @@
+Invoice #1 | Customer: John Doe | Device: iPhone 12 | Issue: screen | Amount Due: 1000.0 | Technician: Mike Smith
+Invoice #2 | Customer: Jane Wilson | Device: Samsung S21 | Issue: battery | Amount Due: 6000.0 | Technician: Sarah Johnson
+Invoice #3 | Customer: Bob Brown | Device: Google Pixel 5 | Issue: software | Amount Due: 900.0 | Technician: Alex Chen
+Invoice #4 | Customer: Raj | Device: Samsung A33 | Issue: water damage | Amount Due: 2500.0 | Technician: Jenny Park
+Invoice #5 | Customer: Rakib | Device: Nothing Phone 1 | Issue: battery | Amount Due: 3500.0 | Technician: Sarah Johnson
+Invoice #6 | Customer: Ashfaq | Device: iPhone Air | Issue: software | Amount Due: 600.0 BDT | Technician: Alex Chen
+Invoice #7 | Customer: Dibbo Rashid | Device: Redmi Note 15 | Issue: screen | Amount Due: 2500.0 BDT | Technician: Mike Smith
+Invoice #8 | Customer: Sarah | Device: Samsung M22 | Issue: screen | Amount Due: 2500.0 BDT | Technician: Mike Smith
+Invoice #9 | Customer: Farha | Device: Samsung M36 | Issue: battery | Amount Due: 1200.0 BDT | Technician: Sarah Johnson
+Invoice #10 | Customer: Donald Trump | Device: iPhone 17 pro | Issue: water damage | Amount Due: 4000.0 BDT | Technician: Jenny Park
